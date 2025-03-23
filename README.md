@@ -80,3 +80,46 @@ MIT License. See `LICENSE` file if available.
 
 **Author**: [immeritos](https://github.com/immeritos)  
 Feel free to ⭐ star the repository or contribute!
+
+
+## 🖼️ Sample Visualizations (B-spline)
+
+### 🎨 Bias and Variance Decomposition
+
+![Bias and Variance](figures/1.dependence of bias and variance on m.png)
+
+---
+
+### 📉 Risk vs. Unbiased Risk Estimation
+
+![Risk and AIC](figures/1.dependence of risk and unbiased risk estimation on m.png)
+
+---
+
+### 📊 AIC-selected Model Index (Distribution)
+
+![AIC Distribution](figures/1.Empirical distributions of AIC selector.png)
+
+---
+
+### 📈 Loss Distribution
+
+![Loss Histogram](figures/1.Empirical distributions of the respecctive loss.png)
+
+---
+
+### 🔍 Oversmoothing vs. Undersmoothing
+
+![Over- and Undersmoothing](figures/1.Illustration of oversmoothing and undersmoothing.png)
+
+---
+
+### ✅ Oracle vs AIC Estimator
+
+![Oracle and AIC](figures/1.response estimate.png)
+
+---
+
+### 🧩 B-spline Basis (m = 13)
+
+![B-spline Basis](figures/1.The set of B-splines with degree 3 for m = 13.png)
