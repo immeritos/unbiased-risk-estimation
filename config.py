@@ -1,0 +1,6 @@
+# config.py
+N_SAMPLES = 400
+N_GRID = 2000
+N_SIMULATIONS = 100
+SIGMA = 10
+MAX_M = 70
