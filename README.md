@@ -73,53 +73,47 @@ unbiased_risk_estimation/
 - Model selection via unbiased risk estimation (AIC)
 - Vladimir Spokoiny(2020). *Nonparametric estimation: parametric view*.
 
+---
 
-MIT License. See `LICENSE` file if available.
+##  Sample Visualizations (B-spline)
+
+### Oversmoothing vs. Undersmoothing
+
+![Over- and Undersmoothing](figures/Illustration_of_oversmoothing_and_undersmoothing.png)
 
 ---
 
-**Author**: [immeritos](https://github.com/immeritos)  
-Feel free to ⭐ star the repository or contribute!
+### B-spline Basis (m = 13)
 
-
-## 🖼️ Sample Visualizations (B-spline)
-
-### 🎨 Bias and Variance Decomposition
-
-![Bias and Variance](figures/1.dependence of bias and variance on m.png)
+![B-spline Basis](figures/The_set_of_B-splines_with_degree_3.png)
 
 ---
 
-### 📉 Risk vs. Unbiased Risk Estimation
+### Bias and Variance Decomposition
 
-![Risk and AIC](figures/1.dependence of risk and unbiased risk estimation on m.png)
-
----
-
-### 📊 AIC-selected Model Index (Distribution)
-
-![AIC Distribution](figures/1.Empirical distributions of AIC selector.png)
+![Bias and Variance](figures/Dependence_of_bias_and_variance_on_m.png)
 
 ---
 
-### 📈 Loss Distribution
+### Risk vs. Unbiased Risk Estimation
 
-![Loss Histogram](figures/1.Empirical distributions of the respecctive loss.png)
-
----
-
-### 🔍 Oversmoothing vs. Undersmoothing
-
-![Over- and Undersmoothing](figures/1.Illustration of oversmoothing and undersmoothing.png)
+![Risk and AIC](figures/Dependence_of_risk_and_unbiased_risk_estimation_on_m.png)
 
 ---
 
-### ✅ Oracle vs AIC Estimator
+### Oracle vs AIC Estimator
 
-![Oracle and AIC](figures/1.response estimate.png)
+![Oracle and AIC](figures/Response_estimate.png)
 
 ---
 
-### 🧩 B-spline Basis (m = 13)
+### AIC-selected Model Index (Distribution)
 
-![B-spline Basis](figures/1.The set of B-splines with degree 3 for m = 13.png)
+![AIC Distribution](figures/Empirical_distributions_of_AIC_selector.png)
+
+---
+
+### Loss Distribution
+
+![Loss Histogram](figures/Empirical_distributions_of_the_respecctive_loss.png)
+
